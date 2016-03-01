@@ -10,7 +10,7 @@ current version: v2.2.0
 
 ## How it looks
 
-Open https://c5573585.github.io/ghapplate to see the basic looks and feel.
+Open https://github.com/c35573585/ghapplate to see the basic looks and feel.
 
 ![Real welcome page](http://i.imgur.com/8AGwXCG.png)
 
